@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "B#B",
+    "///"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:black_wool"
+    },
+    "B": {
+      "item": "minecraft:black_carpet"
+    },
+    "/": {
+      "tag": "forge:sticks"
+    }
+  },
+  "result": {
+    "item": "rats-hats:pirat_hat",
+    "count": 1
+  }
+}

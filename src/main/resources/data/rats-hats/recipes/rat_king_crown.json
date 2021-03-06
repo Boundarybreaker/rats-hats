@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "ggg"
+  ],
+  "key": {
+    "#": {
+      "tag": "forge:nuggets/gold"
+    },
+    "g": {
+      "tag": "forge:ingots/gold"
+    }
+  },
+  "result": {
+    "item": "rats-hats:rat_king_crown",
+    "count": 1
+  }
+}

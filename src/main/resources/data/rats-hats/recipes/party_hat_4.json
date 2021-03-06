@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    " B ",
+    "BBB"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:blue_carpet"
+    },
+    "B": {
+      "item": "minecraft:yellow_wool"
+    }
+  },
+  "result": {
+    "item": "rats-hats:party_hat_4",
+    "count": 1
+  }
+}
